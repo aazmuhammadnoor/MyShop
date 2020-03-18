@@ -4,7 +4,7 @@
 	$user = '';
 	$password = '';
 	$server = '';
-	$app_url = 'http://localhost/myshop';
+	$app_url = '';
 
 	if($database != '' || $database != null)
 	{
