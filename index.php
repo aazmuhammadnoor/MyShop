@@ -9,7 +9,7 @@
 	<?php use_file('part.header') ?>
 	<?php use_file('part.slider') ?>
 	<?php use_file('part.main_product') ?>
-	<?php use_file('part.news_letter') ?>
+	<?php use_file('part.quotes') ?>
 	<?php use_file('part.footer') ?>
 	<?php use_file('part.copyright') ?>
 	<?php use_file('part.init') ?>
